@@ -24,7 +24,7 @@ const WritePost = ({ user }) => {
   };
   const handlePostCreation = async (e) => {
     e.preventDefault();
-    if (!articleName.trim()) return;
+    if (!slugify(articleName.trim())) return;
     const postData = {
       uid: user.uid,
       author: user.displayName,

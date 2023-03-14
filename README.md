@@ -50,7 +50,6 @@ Each User has his own **Profile-Page** that shows his **posts**, and an **(admin
 ![SignIn](https://user-images.githubusercontent.com/112376589/225056348-d3cfea35-81fd-444e-9ba4-496ef6ef11e9.png)
 
 ## **(ADMIN-LIKE) PAGE**
-
 **This page shows your posts status and gives you the ability to go and edit any of them, you can also create a new post**
 ![writePost](https://user-images.githubusercontent.com/112376589/225056365-2cda5a50-21e0-473f-8953-caeab0901710.png)
 

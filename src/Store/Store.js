@@ -12,7 +12,7 @@ import { convertPostsToAnArray } from "../../Functions/Helpers";
 export const usePosts = create((set) => ({
   Posts: [],
   userModal: true,
-  setLimit: 10,
+  setLimit: 999,
   setModal: (status) => set(() => ({ userModal: status })),
 }));
 const postQuery = query(

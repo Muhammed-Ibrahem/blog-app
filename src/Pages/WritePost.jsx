@@ -81,7 +81,7 @@ const WritePost = ({ user }) => {
               ID : {slugify(articleName)}
             </span>
             <button
-              disabled={articleName.trim().length < 4}
+              disabled={slugify(articleName.trim()).length < 4}
               className="rounded bg-success py-2 px-4 capitalize text-white disabled:opacity-50"
             >
               create new post

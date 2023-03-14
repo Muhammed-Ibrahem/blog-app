@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --Logo: 210deg 11% 4%;
+    --BtnBg: 235deg 72% 55%;
+    --BodyBg: 200deg 10% 94%;
+    --Txt: 210deg 11% 4%;
+    --borders: 208deg 11% 74%;
+    --GrayishBtn: 208deg 11% 74%;
+    --Success: 140deg 72% 55%;
+  }
+}

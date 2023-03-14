@@ -1,0 +1,44 @@
+.CustomResets h1,
+.CustomResets h2,
+.CustomResets h3,
+.CustomResets h4,
+.CustomResets h5,
+.CustomResets h6 {
+  font-weight: bold;
+}
+.CustomResets h1 {
+  font-size: 2em;
+}
+.CustomResets h2 {
+  font-size: 1.5em;
+}
+.CustomResets h3 {
+  font-size: 1.17em;
+}
+.CustomResets h4 {
+  font-size: 1em;
+}
+.CustomResets h5 {
+  font-size: 0.83em;
+}
+.CustomResets h6 {
+  font-size: 0.67em;
+}
+.CustomResets ul,
+.CustomResets ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 40px;
+}
+.CustomResets ul {
+  list-style-type: disc;
+}
+.CustomResets ol {
+  list-style-type: decimal;
+}
+.CustomResets a {
+  color: blue;
+}
+.CustomResets img {
+  margin-inline: auto;
+}
